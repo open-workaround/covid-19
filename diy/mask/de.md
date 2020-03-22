@@ -10,3 +10,19 @@ Um die Bevölkerung im Pandemiefall unabhängig von Lieferengpässen und von kos
 
 Zur Versorgung der Bürgerinnen und Bürger, denen das selber Nähen eines MNS nicht möglich ist und zur zusätzlichen materiellen Versorgung der geplanten Zugangskontrollen werden die städtischen Schneidereien ab der Phase 5 aufgefordert Mehrweg- MNS anzufertigen.
 
+# Nähanleitung für einen Mehrweg Mund-Nasen-Schutz
+
+![](01.jpg)
+
+Folgende Materialien werden benötigt:
+1. zwei 90 cm lange und 2 cm breite Stoffstreifen (kochfeste Baumwolle)
+2. zwei 17 cm lange und 2 cm breite Stoffstreifen (kochfeste Baumwolle)
+3. einen 15 cm langen dünnen und biegsamen Draht (z.B. Basteldraht, Pfeifenreiniger, Klemmdraht von Gefrierbeuteln)
+4. 17 cm x 34 cm großes Stofftuch aus Atmung durchlässigem kochfesten Baumwollstoff (z.B. Stoffwindel, T-Shirtstoff, leichtes Baumwolltuch)
+
+Prüfung der Durchlässigkeit der Atmung:
+ - Tuch doppelt nehmen
+ - Dicht um Mund und Nase schließen
+ - Ein- und Ausatmen
+ 
+ Ist das Ein- und Ausatmen ohne größerem Atemwiderstand möglich, ist das Material als Mundschutz geeinget!
