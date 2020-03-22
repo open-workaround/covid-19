@@ -27,20 +27,28 @@ Prüfung der Durchlässigkeit der Atmung:
  
  Ist das Ein- und Ausatmen ohne größerem Atemwiderstand möglich, ist das Material als Mundschutz geeinget!
 
-| ![](img/02.jpg) |    |
+| ![](img/02.jpg) | 17x34 cm großes Stofftuch anzeichnen und ausschneiden |
 | --------------- |:--:|
-| ![](img/03.jpg) |    |
-| ![](img/04.jpg) |    |
-| ![](img/05.jpg) |    |
-| ![](img/06.jpg) |    |
+| ![](img/03.jpg) |Stofftuch zur Hälfte falten und bügeln|
+| ![](img/04.jpg) |In das Stofftuch 3 gleichmäßig verteilte Falten bügeln (Faltentiefe 1,3 cm)|
+| ![](img/05.jpg) |Zwei 90 cm lange und 2 cm breite Streifen (Kopfbänder) und zwei 17 cm lange und 2 cm breite Streifen (Kantenverstärkung) aus Baumwollstoff ausschneiden. Evtl. versäubern|
+| ![](img/06.jpg) |Alle vier Streifen zur Hälfte bügeln (Schrägstreifen)|
 | ![](img/07.jpg) |    |
-| ![](img/08.jpg) |    |
-| ![](img/09.jpg) |    |
-| ![](img/10.jpg) |    |
+| ![](img/08.jpg) |Stofftuch oben und unten in die Kantenverstärkungen einlegen|
+| ![](img/09.jpg) |Am Oberteil Draht in die Kantenverstärkung einlegen|
+| ![](img/10.jpg) |Stofftuch einfassen|
 | ![](img/11.jpg) |    |
-| ![](img/12.jpg) |    |
-| ![](img/13.jpg) |    |
-| ![](img/14.jpg) |    |
-| ![](img/15.jpg) |    |
-| ![](img/16.jpg) |    |
+| ![](img/12.jpg) |Kantenverstärkungen feststecken und....|
+| ![](img/13.jpg) |...vernähen.|
+| ![](img/14.jpg) |Die eingebügelten Falten des Stofftuchs zusammenlegen und mittig auf beiden Seiten in die Kopfbänder einlegen|
+| ![](img/15.jpg) |Kopfbänder feststecken und...|
+| ![](img/16.jpg) |vernähen.|
 | ![](img/17.jpg) |    |
+
+## Pflege und Reinigung des Mehrweg- MNS
+
+Der Mehrweg- MNS ist grundsätzlich trocken zu lagern. Nach der Benutzung ist der Mehrweg- MNS vorsichtig auszuziehen und möglichst dabei die Außenfläche nicht zu berühren. Nach dem Ausziehen sollte eine Händewaschung durchgeführt werden. Gebrauchte MNS sollten nach der Benutzung bzw. mindestens einmal täglich gereinigt werden. Sie können entweder bei 90°C in der Waschmaschine gewaschen oder auf dem Herd in einem Wasserbad (5 Minuten) ausgekocht werden. Anschließend ist der MNS zu trocknen.
+
+## Prüfung und Wirksamkeit
+
+Dieser Mundschutz wird komplett selbst gefertigt, er ist weder geprüft noch zertifiziert. Er dient nur als sinnvolle Alternative, wenn keine MNS mehr zu bekommen sind. Die Herstellung und Benutzung ist eigenverantwortlich.
