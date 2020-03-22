@@ -12,7 +12,7 @@ Zur Versorgung der Bürgerinnen und Bürger, denen das selber Nähen eines MNS n
 
 # Nähanleitung für einen Mehrweg Mund-Nasen-Schutz
 
-![](01.jpg)
+![](img/01.jpg)
 
 Folgende Materialien werden benötigt:
 1. zwei 90 cm lange und 2 cm breite Stoffstreifen (kochfeste Baumwolle)
