@@ -2,7 +2,7 @@
 
 Quelle: [LZ UGB Stadt Essen – Nähanleitung](https://media.essen.de/media/wwwessende/aemter/0115_1/pressereferat/Mund-Nasen-Schutz__Naehanleitung_2020_Feuerwehr_Essen.pdf)
 
-Die Übertragung von Coronaviren erfolgt beispielsweise durch Tröpfchen, die unter anderem beim Sprechen, beim Husten Oder Niesen entstehen und auf die Schleimhäute von Kontaktpersonen gelangen können. Die Tröpfchen können auch auf Oberflächen gelangen und diese kontaminieren. Direkter Händekontakt mit Oberflächen, die mit virushaltigen Sekreten kontaminiert Sind und anschließender Hand-Mund-Nasen- Kontakt kann ebenfalls zur Übertragung führen.
+Die Übertragung von Coronaviren erfolgt beispielsweise durch Tröpfchen, die unter anderem beim Sprechen, beim Husten oder Niesen entstehen und auf die Schleimhäute von Kontaktpersonen gelangen können. Die Tröpfchen können auch auf Oberflächen gelangen und diese kontaminieren. Direkter Händekontakt mit Oberflächen, die mit virushaltigen Sekreten kontaminiert sind und anschließender Hand-Mund-Nasen- Kontakt kann ebenfalls zur Übertragung führen.
 
 Bereits ein Behelf-Mund-Nasen-Schutz kann die Verteilung von Tröpfchen in die Umgebung und auf Kontaktpersonen verhindern.
 
