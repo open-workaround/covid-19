@@ -1,1 +1,12 @@
 # Mund-Nasen-Schutz (MNS)
+
+Quelle: LZ UGB Stadt Essen – Nähanleitung
+
+Die Übertragung von Influenzaviren erfolgt durch Tröpfchen, die z.B. beim Sprechen, beim Husten oder Niesen entstehen und auf die Schleimhäute von Kontaktpersonen gelangen können. Die Tröpfchen können auch auf Oberflächen gelangen und diese kontaminieren. Direkter Händekontakt mit Oberflächen, die mit virushaltigen Sekreten kontaminiert sind und anschließender Hand- Mund -Nasen- Kontakt kann ebenfalls zur Übertragung führen.
+
+Ein handelsüblicher Mund- Nasen- Schutz kann die Verteilung von Tröpfchen in die Umgebung und auf Kontaktpersonen verhindern. Das Tragen eines MNS in der Öffentlichkeit könnte die Übertragungswege einer Influenza in der Bevölkerung reduzieren. Insbesondere beim Ausfall wirksamer Medikamente durch Resistenzbildung der Erreger könnte der MNS eine Option zur Minimierung der Krankheitsausbreitung sein. Es ist sinnvoll, bei jeder Begegnung mit anderen Personen einen Mund- Nasen- Schutz (MNS) zu tragen, um die Verteilung von Tröpfchen zu verhindern. Dies gilt auch für den Arbeitsweg, bei Einkäufen, beim Aufenthalt in Räumen mit mehreren Personen und beim Besuch öffentlicher Gebäude und Einrichtungen.
+
+Um die Bevölkerung im Pandemiefall unabhängig von Lieferengpässen und von kostenintensiver Bevorratung mit ausreichend MNS zu versorgen wird in der Pandemie- Phase 6 eine Nähanleitung zum selbernähen eines Mehrweg- Mund- Nasen- Schutzes an die Bevölkerung verteilt.
+
+Zur Versorgung der Bürgerinnen und Bürger, denen das selber Nähen eines MNS nicht möglich ist und zur zusätzlichen materiellen Versorgung der geplanten Zugangskontrollen werden die städtischen Schneidereien ab der Phase 5 aufgefordert Mehrweg- MNS anzufertigen.
+
