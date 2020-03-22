@@ -1,16 +1,18 @@
-# Mund-Nasen-Schutz (MNS)
+# Behelf-Mund-Nasen-Schutz (BMNS)
 
-Quelle: LZ UGB Stadt Essen – Nähanleitung
+Quelle: [LZ UGB Stadt Essen – Nähanleitung](https://media.essen.de/media/wwwessende/aemter/0115_1/pressereferat/Mund-Nasen-Schutz__Naehanleitung_2020_Feuerwehr_Essen.pdf)
 
-Die Übertragung von Influenzaviren erfolgt durch Tröpfchen, die z.B. beim Sprechen, beim Husten oder Niesen entstehen und auf die Schleimhäute von Kontaktpersonen gelangen können. Die Tröpfchen können auch auf Oberflächen gelangen und diese kontaminieren. Direkter Händekontakt mit Oberflächen, die mit virushaltigen Sekreten kontaminiert sind und anschließender Hand- Mund -Nasen- Kontakt kann ebenfalls zur Übertragung führen.
+Die Übertragung von Coronaviren erfolgt beispielsweise durch Tröpfchen, die unter anderem beim Sprechen, beim Husten Oder Niesen entstehen und auf die Schleimhäute von Kontaktpersonen gelangen können. Die Tröpfchen können auch auf Oberflächen gelangen und diese kontaminieren. Direkter Händekontakt mit Oberflächen, die mit virushaltigen Sekreten kontaminiert Sind und anschließender Hand-Mund-Nasen- Kontakt kann ebenfalls zur Übertragung führen.
 
-Ein handelsüblicher Mund- Nasen- Schutz kann die Verteilung von Tröpfchen in die Umgebung und auf Kontaktpersonen verhindern. Das Tragen eines MNS in der Öffentlichkeit könnte die Übertragungswege einer Influenza in der Bevölkerung reduzieren. Insbesondere beim Ausfall wirksamer Medikamente durch Resistenzbildung der Erreger könnte der MNS eine Option zur Minimierung der Krankheitsausbreitung sein. Es ist sinnvoll, bei jeder Begegnung mit anderen Personen einen Mund- Nasen- Schutz (MNS) zu tragen, um die Verteilung von Tröpfchen zu verhindern. Dies gilt auch für den Arbeitsweg, bei Einkäufen, beim Aufenthalt in Räumen mit mehreren Personen und beim Besuch öffentlicher Gebäude und Einrichtungen.
+Bereits ein Behelf-Mund-Nasen-Schutz kann die Verteilung von Tröpfchen in die Umgebung und auf Kontaktpersonen verhindern.
 
-Um die Bevölkerung im Pandemiefall unabhängig von Lieferengpässen und von kostenintensiver Bevorratung mit ausreichend MNS zu versorgen wird in der Pandemie- Phase 6 eine Nähanleitung zum selbernähen eines Mehrweg- Mund- Nasen- Schutzes an die Bevölkerung verteilt.
+Das Tragen könnte die Übertragungswege einer Corona-Infektion reduzieren. Es ist sinnvoll, bei jeder Begegnung insbesondere mit Risikopersonen einen Behelf-Mund- Nasen-Schutz (BMNS) zu tragen, um die Verteilung von Tröpfchen zu verhindern. 
 
-Zur Versorgung der Bürgerinnen und Bürger, denen das selber Nähen eines MNS nicht möglich ist und zur zusätzlichen materiellen Versorgung der geplanten Zugangskontrollen werden die städtischen Schneidereien ab der Phase 5 aufgefordert Mehrweg- MNS anzufertigen.
+Um die Bevölkerung im Pandemiefall unabhängig von Lieferengpässen und von kostenintensiven Bevorratungen mit ausreichend BMNS zu versorgen, wird eine Nähanleitung zum Selbernähen eines waschbaren Behelf-Mund-Nasen-Schutzes an die Bevölkerung verteilt.
 
-# Nähanleitung für einen Mehrweg Mund-Nasen-Schutz
+Achtung: Der Behelf-Mund-Nasen-Schutz entspricht nicht dem genormten Mund- Nasen-Schutz und dient lediglich als Hilfsmittel.
+
+# Nähanleitung für einen waschbaren Behelf- Mund-Nasen-Schutz
 
 ![](img/01.jpg)
 
@@ -45,10 +47,10 @@ Prüfung der Durchlässigkeit der Atmung:
 | ![](img/16.jpg) |vernähen.|
 | ![](img/17.jpg) |    |
 
-## Pflege und Reinigung des Mehrweg- MNS
+## Pflege und Reinigung des waschbaren BMNS
 
-Der Mehrweg- MNS ist grundsätzlich trocken zu lagern. Nach der Benutzung ist der Mehrweg- MNS vorsichtig auszuziehen und möglichst dabei die Außenfläche nicht zu berühren. Nach dem Ausziehen sollte eine Händewaschung durchgeführt werden. Gebrauchte MNS sollten nach der Benutzung bzw. mindestens einmal täglich gereinigt werden. Sie können entweder bei 90°C in der Waschmaschine gewaschen oder auf dem Herd in einem Wasserbad (5 Minuten) ausgekocht werden. Anschließend ist der MNS zu trocknen.
+Der waschbare BMNS ist grundsätzlich trocken zu lagern. Nach der Benutzung ist der BMNS vorsichtig auszuziehen und möglichst dabei die Außenfläche nicht zu berühren. Nach dem Ausziehen sollte eine Händewaschung durchgeführt werden. Gebrauchte BMNS sollten nach der Benutzung bzw. mindestens einmal täglich gereinigt werden. Sie können entweder bei 90°C in der Waschmaschine gewaschen oder auf dem Herd in einem Wasserbad (5 Minuten) ausgekocht werden. Anschließend ist der BMNS zu trocknen.
 
 ## Prüfung und Wirksamkeit
 
-Dieser Mundschutz wird komplett selbst gefertigt, er ist weder geprüft noch zertifiziert. Er dient nur als sinnvolle Alternative, wenn keine MNS mehr zu bekommen sind. Die Herstellung und Benutzung ist eigenverantwortlich.
+Dieser Mundschutz wird komplett selbst gefertigt, er ist weder geprüft noch zertifiziert. Die Herstellung und Benutzung ist eigenverantwortlich. Der BMNS dient lediglich als sinnvolle Alternative, wenn kein Einmal-MNS zur Verfügung steht. Er dient der Reduzierung bei der Verbreitung von Tröpfchen. Er stellt keinen Eigenschutz dar. 
